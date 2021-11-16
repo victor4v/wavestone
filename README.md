@@ -9,6 +9,12 @@ Ce site a pour but de montrer quelques outils permettant d'exploiter des donnée
   
 Lien vers [le code et les données](https://github.com/victor4v/wavestone.git).
 
+## Test des commandes Markdown
+
+$\sum_{k=1}^n 2^k$
+\bigskip
+$\textit{plus de formules à venir...}$
+
 ## Quelques Macros..
 
 On s'applique à représenter quelques données. Par exemple dans les communes à faible densité, la distribution du nombre de voitures ou celle du mode de transport. 
