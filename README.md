@@ -9,4 +9,4 @@ Ce site a pour but de montrer quelques outils permettant d'exploiter des donnée
   
   Lien vers [le code et les données](https://github.com/victor4v/wavestone.git).
 
-  
+  ![test image](./images/low%20density/('VOITs'%2C%20False).jpg)
