@@ -7,4 +7,4 @@ Ce site a pour but de montrer quelques outils permettant d'exploiter des donnée
   * Construction d'indicateurs et Macros.
   * Développement d'ouils de visualisation.
   
-Lien vers [le code et les données](https://github.com/victor4v/wavestone.git)
+Lien vers [le code et les données](https://github.com/victor4v/wavestone.git).
