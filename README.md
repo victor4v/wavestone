@@ -1,6 +1,6 @@
-## Wavestone
+## Présentation
 
-Ce site a pour but de de présenter quelques outils permettant d'exploiter des données provenant de l'INSEE et décrivant mobilité France.
+Ce site a pour but de montrer quelques outils permettant d'exploiter des données provenant de l'INSEE et décrivant mobilité France.
 
   * Manipulation de données (csv, xlsx) avec Pandas.
   * Extraction de données avec Requests et Selenium depuis le site de l'INSEE.
