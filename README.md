@@ -12,6 +12,11 @@ Lien vers [le code et les données](https://github.com/victor4v/wavestone.git).
 ## Liens
 [Integrate interactive Python plot on a website](https://www.freecodecamp.org/news/how-to-embed-interactive-python-visualizations-on-your-website-with-python-and-matplotlib/)
 
+[Exemple de projet carto](https://github.com/gotoariel/folium-demo)
+
+[Convertir Notebbok en fichier html](https://github.com/jupyter/nbconvert)
+
+
 ## Quelques Macros..
 
 On s'applique à représenter quelques données. Par exemple dans les communes à faible densité, la distribution du nombre de voitures ou celle du mode de transport. 
