@@ -18,6 +18,8 @@ Lien vers [le code et les données](https://github.com/victor4v/wavestone.git).
 
 [Doc nbinteract](https://www.nbinteract.com/)
 
+[Github token](https://www.youtube.com/watch?v=W9zTttHeoHk)
+
 ## Quelques Macros..
 
 On s'applique à représenter quelques données. Par exemple dans les communes à faible densité, la distribution du nombre de voitures ou celle du mode de transport. 
