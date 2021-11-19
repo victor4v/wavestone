@@ -14,7 +14,7 @@ Lien vers [le code et les données](https://github.com/victor4v/wavestone.git).
 
 [Exemple de projet carto](https://github.com/gotoariel/folium-demo)
 
-[Convertir Notebook en fichier html](https://github.com/jupyter/nbconvert)
+[Convertir Notebook en fichier html](https://thedatafrog.com/en/articles/jupyter-notebooks-web-pages/)
 
 [Doc nbinteract](https://www.nbinteract.com/)
 
